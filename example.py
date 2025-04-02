@@ -7,4 +7,5 @@ if mood== "good" :
 elif mood== "bad":
     print ("that's bad")
 else:
-    print ("Fine")
+    print ("Fine")asd
+    
